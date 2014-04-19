@@ -1,0 +1,9 @@
+<Alloy>
+	<Model src="Widget" instance="true" id="thingDetail">
+    <Window id="detail" model="$.thingDetail" dataTransform="dataTransformation" layout="vertical"> 
+        <TextField id="name" datid = "{$.thingDetail.id}" value="{$.thingDetail.name}"  hintText="Name" ></TextField>
+        <TextField id="description" value="{$.thingDetail.description}" ></TextField>
+        <Button id="savebtn">Save</Button>
+        <Button id="cancelbtn">Cancel</Button>
+    </Window>
+</Alloy>

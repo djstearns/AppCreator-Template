@@ -1,0 +1,23 @@
+{
+	"target": "simulator",
+	"deployType": "development",
+	"deviceFamily": "iphone",
+	"iosSdkPath": "/Users/VM/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone",
+	"appGuid": "79644854-5078-4af6-9850-8b855ed495e8",
+	"tiCoreHash": "77157e1ffaec640cf559356a147b6a4c",
+	"modulesHash": "6bc7cce2c275209225afecd9c26e8e83",
+	"nativeModulesHash": "fb78df35408199436ad92228a5f20199",
+	"gitHash": "222f4d1",
+	"name": "Alloy Android iPhone Navigation Demo",
+	"id": "me.jwebster.alloynavdemo",
+	"analytics": true,
+	"publisher": "Joe",
+	"url": "http://",
+	"version": "1.0",
+	"description": "not specified",
+	"copyright": "2013 by Joe",
+	"guid": "79644854-5078-4af6-9850-8b855ed495e8",
+	"skipJSMinification": true,
+	"forceCopy": false,
+	"forceCopyAll": false
+}

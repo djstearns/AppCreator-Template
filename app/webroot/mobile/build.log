@@ -1,0 +1,229 @@
+Logfile initialized
+[INFO] logfile = /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build.log
+[DEBUG] /Users/VM/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/builder.py install Alloy Android iPhone Navigation Demo /Users/VM/Documents/androidSDK /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp me.jwebster.alloynavdemo 4
+[INFO] plugin=/Users/VM/Library/Application Support/Titanium/plugins/ti.alloy/1.0/plugin.py
+[INFO] Detected compiler plugin: ti.alloy/1.0
+[INFO] Titanium SDK version: 3.1.3 (09/18/13 12:00 222f4d1)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.022881 seconds on emulator to get ready
+[DEBUG] me.jwebster.alloynavdemo installed? False
+[INFO] Copying CommonJS modules...
+[INFO] Copying project resources..
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/backbone.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/backbone.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/constants.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/constants.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/controllers/BaseController.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/controllers/BaseController.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/controllers/detail.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/controllers/detail.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/controllers/home.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/controllers/home.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/controllers/index.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/controllers/index.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/controllers/indexhome.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/controllers/indexhome.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/controllers/login.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/controllers/login.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/controllers/login_form.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/controllers/login_form.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/controllers/places.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/controllers/places.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/controllers/placesAdd.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/controllers/placesAdd.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/controllers/register.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/controllers/register.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/controllers/scanner.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/controllers/scanner.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/controllers/widgets.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/controllers/widgets.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/controllers/widgetschooser.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/controllers/widgetschooser.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/controllers/workers.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/controllers/workers.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/controllers/workers_widgetsEdit.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/controllers/workers_widgetsEdit.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/controllers/workersAdd.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/controllers/workersAdd.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/controllers/workerschooser.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/controllers/workerschooser.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/models/Place.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/models/Place.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/models/User.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/models/User.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/models/Widget.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/models/Widget.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/models/Worker.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/models/Worker.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/models/Workers_widgets.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/models/Workers_widgets.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/styles/detail.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/styles/detail.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/styles/home.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/styles/home.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/styles/index.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/styles/index.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/styles/indexhome.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/styles/indexhome.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/styles/login.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/styles/login.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/styles/login_form.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/styles/login_form.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/styles/places.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/styles/places.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/styles/placesAdd.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/styles/placesAdd.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/styles/register.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/styles/register.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/styles/scanner.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/styles/scanner.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/styles/widgets.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/styles/widgets.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/styles/widgetschooser.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/styles/widgetschooser.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/styles/workers.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/styles/workers.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/styles/workers_widgetsEdit.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/styles/workers_widgetsEdit.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/styles/workersAdd.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/styles/workersAdd.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/styles/workerschooser.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/styles/workerschooser.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/sync/localStorage.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/sync/localStorage.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/sync/properties.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/sync/properties.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/sync/sql.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/sync/sql.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/sync/util.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/sync/util.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/underscore.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/underscore.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/widget.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/widget.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/widgets/nl.fokkezb.infiniteScroll/controllers/widget.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/widgets/nl.fokkezb.infiniteScroll/controllers/widget.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy/widgets/nl.fokkezb.infiniteScroll/styles/widget.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/widgets/nl.fokkezb.infiniteScroll/styles/widget.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/alloy.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/android/alloy/CFG.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/alloy/CFG.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/app.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/app.js
+[TRACE] COPYING MODIFIED FILE: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/data.js => /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/data.js
+[DEBUG] LiveView not enabled
+[TRACE] Generating Java Classes
+[DEBUG] Processing Android resource drawables
+[INFO] Copying platform-specific files for 'scanditsdk' module
+[DEBUG] copying app icon: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/appicon.png
+[DEBUG] generating theme.xml
+[DEBUG] found drawable-long-land-hdpi splash screen at /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/android/images/res-long-land-hdpi/default.png
+[DEBUG] copying /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/android/images/res-long-land-hdpi/default.png splash screen to /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/res/drawable-long-land-hdpi/background.png
+[DEBUG] found drawable-long-land-ldpi splash screen at /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/android/images/res-long-land-ldpi/default.png
+[DEBUG] copying /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/android/images/res-long-land-ldpi/default.png splash screen to /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/res/drawable-long-land-ldpi/background.png
+[DEBUG] found drawable-long-port-hdpi splash screen at /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/android/images/res-long-port-hdpi/default.png
+[DEBUG] copying /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/android/images/res-long-port-hdpi/default.png splash screen to /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/res/drawable-long-port-hdpi/background.png
+[DEBUG] found drawable-long-port-ldpi splash screen at /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/android/images/res-long-port-ldpi/default.png
+[DEBUG] copying /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/android/images/res-long-port-ldpi/default.png splash screen to /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/res/drawable-long-port-ldpi/background.png
+[DEBUG] found drawable-notlong-land-hdpi splash screen at /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/android/images/res-notlong-land-hdpi/default.png
+[DEBUG] copying /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/android/images/res-notlong-land-hdpi/default.png splash screen to /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/res/drawable-notlong-land-hdpi/background.png
+[DEBUG] found drawable-notlong-land-ldpi splash screen at /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/android/images/res-notlong-land-ldpi/default.png
+[DEBUG] copying /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/android/images/res-notlong-land-ldpi/default.png splash screen to /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/res/drawable-notlong-land-ldpi/background.png
+[DEBUG] found drawable-notlong-land-mdpi splash screen at /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/android/images/res-notlong-land-mdpi/default.png
+[DEBUG] copying /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/android/images/res-notlong-land-mdpi/default.png splash screen to /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/res/drawable-notlong-land-mdpi/background.png
+[DEBUG] found drawable-notlong-port-hdpi splash screen at /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/android/images/res-notlong-port-hdpi/default.png
+[DEBUG] copying /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/android/images/res-notlong-port-hdpi/default.png splash screen to /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/res/drawable-notlong-port-hdpi/background.png
+[DEBUG] found drawable-notlong-port-ldpi splash screen at /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/android/images/res-notlong-port-ldpi/default.png
+[DEBUG] copying /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/android/images/res-notlong-port-ldpi/default.png splash screen to /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/res/drawable-notlong-port-ldpi/background.png
+[DEBUG] found drawable-notlong-port-mdpi splash screen at /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/android/images/res-notlong-port-mdpi/default.png
+[DEBUG] copying /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/Resources/android/images/res-notlong-port-mdpi/default.png splash screen to /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/res/drawable-notlong-port-mdpi/background.png
+[DEBUG] found splash screen at /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/assets/Resources/default.png
+[DEBUG] Added 'screenSize' to <activity android:configChanges> because targeted api level 19 is >= 13
+[TRACE] Writing out AndroidManifest.xml
+[DEBUG] adding /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/gen/me/jwebster/alloynavdemo/AlloyAndroidIphoneNavigationDemoActivity.java to javac build list
+[DEBUG] adding /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/gen/me/jwebster/alloynavdemo/AlloyAndroidIphoneNavigationDemoAppInfo.java to javac build list
+[DEBUG] adding /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/gen/me/jwebster/alloynavdemo/AlloyAndroidIphoneNavigationDemoApplication.java to javac build list
+[DEBUG] adding /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/gen/me/jwebster/alloynavdemo/R.java to javac build list
+[DEBUG] Building Java Sources: "/Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/gen/me/jwebster/alloynavdemo/AlloyAndroidIphoneNavigationDemoActivity.java" "/Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/gen/me/jwebster/alloynavdemo/AlloyAndroidIphoneNavigationDemoAppInfo.java" "/Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/gen/me/jwebster/alloynavdemo/AlloyAndroidIphoneNavigationDemoApplication.java" "/Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/gen/me/jwebster/alloynavdemo/R.java"
+[INFO] Compiling Android Resources... This could take some time
+[DEBUG] Android classes.dex built
+[DEBUG] creating unsigned apk: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/build/android/bin/app-unsigned.apk
+[DEBUG] from resource zip => assets/Resources/alloy/controllers/BaseController.js
+[DEBUG] from resource zip => assets/Resources/alloy/controllers/detail.js
+[DEBUG] from resource zip => assets/Resources/alloy/controllers/home.js
+[DEBUG] from resource zip => assets/Resources/alloy/controllers/index.js
+[DEBUG] from resource zip => assets/Resources/alloy/controllers/indexhome.js
+[DEBUG] from resource zip => assets/Resources/alloy/controllers/login.js
+[DEBUG] from resource zip => assets/Resources/alloy/controllers/login_form.js
+[DEBUG] from resource zip => assets/Resources/alloy/controllers/places.js
+[DEBUG] from resource zip => assets/Resources/alloy/controllers/placesAdd.js
+[DEBUG] from resource zip => assets/Resources/alloy/controllers/register.js
+[DEBUG] from resource zip => assets/Resources/alloy/controllers/scanner.js
+[DEBUG] from resource zip => assets/Resources/alloy/controllers/widgets.js
+[DEBUG] from resource zip => assets/Resources/alloy/controllers/widgetschooser.js
+[DEBUG] from resource zip => assets/Resources/alloy/controllers/workers.js
+[DEBUG] from resource zip => assets/Resources/alloy/controllers/workersAdd.js
+[DEBUG] from resource zip => assets/Resources/alloy/controllers/workers_widgetsEdit.js
+[DEBUG] from resource zip => assets/Resources/alloy/controllers/workerschooser.js
+[DEBUG] from resource zip => assets/Resources/alloy/models/Place.js
+[DEBUG] from resource zip => assets/Resources/alloy/models/User.js
+[DEBUG] from resource zip => assets/Resources/alloy/models/Widget.js
+[DEBUG] from resource zip => assets/Resources/alloy/models/Worker.js
+[DEBUG] from resource zip => assets/Resources/alloy/models/Workers_widgets.js
+[DEBUG] from resource zip => assets/Resources/alloy/styles/detail.js
+[DEBUG] from resource zip => assets/Resources/alloy/styles/home.js
+[DEBUG] from resource zip => assets/Resources/alloy/styles/index.js
+[DEBUG] from resource zip => assets/Resources/alloy/styles/indexhome.js
+[DEBUG] from resource zip => assets/Resources/alloy/styles/login.js
+[DEBUG] from resource zip => assets/Resources/alloy/styles/login_form.js
+[DEBUG] from resource zip => assets/Resources/alloy/styles/places.js
+[DEBUG] from resource zip => assets/Resources/alloy/styles/placesAdd.js
+[DEBUG] from resource zip => assets/Resources/alloy/styles/register.js
+[DEBUG] from resource zip => assets/Resources/alloy/styles/scanner.js
+[DEBUG] from resource zip => assets/Resources/alloy/styles/widgets.js
+[DEBUG] from resource zip => assets/Resources/alloy/styles/widgetschooser.js
+[DEBUG] from resource zip => assets/Resources/alloy/styles/workers.js
+[DEBUG] from resource zip => assets/Resources/alloy/styles/workersAdd.js
+[DEBUG] from resource zip => assets/Resources/alloy/styles/workers_widgetsEdit.js
+[DEBUG] from resource zip => assets/Resources/alloy/styles/workerschooser.js
+[DEBUG] from resource zip => assets/Resources/alloy/sync/localStorage.js
+[DEBUG] from resource zip => assets/Resources/alloy/sync/properties.js
+[DEBUG] from resource zip => assets/Resources/alloy/sync/sql.js
+[DEBUG] from resource zip => assets/Resources/alloy/sync/util.js
+[DEBUG] from resource zip => assets/Resources/alloy/widgets/nl.fokkezb.infiniteScroll/controllers/widget.js
+[DEBUG] from resource zip => assets/Resources/alloy/widgets/nl.fokkezb.infiniteScroll/styles/widget.js
+[DEBUG] from resource zip => assets/Resources/alloy/CFG.js
+[DEBUG] from resource zip => assets/Resources/alloy/backbone.js
+[DEBUG] from resource zip => assets/Resources/alloy/constants.js
+[DEBUG] from resource zip => assets/Resources/alloy/underscore.js
+[DEBUG] from resource zip => assets/Resources/alloy/widget.js
+[DEBUG] from resource zip => assets/Resources/images/4_collections_view_as_list.png
+[DEBUG] from resource zip => assets/Resources/images/53-house.png
+[DEBUG] from resource zip => assets/Resources/images/KS_nav_ui.png
+[DEBUG] from resource zip => assets/Resources/images/KS_nav_views.png
+[DEBUG] from resource zip => assets/Resources/alloy.js
+[DEBUG] from resource zip => assets/Resources/app.js
+[DEBUG] from resource zip => assets/Resources/appicon.png
+[DEBUG] from resource zip => assets/Resources/data.js
+[DEBUG] from resource zip => assets/Resources/default.png
+[DEBUG] from resource zip => assets/app.json
+[DEBUG] from resource zip => assets/index.json
+[DEBUG] from resource zip => res/drawable/appicon.png
+[DEBUG] from resource zip => res/drawable/background.png
+[DEBUG] from resource zip => res/drawable/btn_check_buttonless_on_64.png
+[DEBUG] from resource zip => res/drawable/btn_more_64.png
+[DEBUG] from resource zip => res/drawable/disclosure_64.png
+[DEBUG] from resource zip => res/layout/titanium_tabgroup.xml
+[DEBUG] from resource zip => res/layout/titanium_ui_list_header_or_footer.xml
+[DEBUG] from resource zip => res/layout/titanium_ui_list_item.xml
+[DEBUG] from resource zip => res/raw/beep.wav
+[DEBUG] from resource zip => res/raw/camera_swap_icon.png
+[DEBUG] from resource zip => res/raw/camera_swap_icon_pressed.png
+[DEBUG] from resource zip => res/raw/flashlight_turn_off_icon.png
+[DEBUG] from resource zip => res/raw/flashlight_turn_off_icon_pressed.png
+[DEBUG] from resource zip => res/raw/flashlight_turn_on_icon.png
+[DEBUG] from resource zip => res/raw/flashlight_turn_on_icon_pressed.png
+[DEBUG] from resource zip => res/raw/ic_btn_search.png
+[DEBUG] from resource zip => res/raw/poweredby2x.png
+[DEBUG] from resource zip => AndroidManifest.xml
+[DEBUG] from resource zip => resources.arsc
+[DEBUG] from resource zip => res/drawable-long-land-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-long-land-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-long-port-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-long-port-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-mdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-mdpi/background.png
+[DEBUG] from JAR /Users/VM/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.js
+[DEBUG] from JAR /Users/VM/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.min.js
+[DEBUG] from JAR /Users/VM/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/json2.js
+[DEBUG] from JAR /Users/VM/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/polling.js
+[DEBUG] from JAR /Users/VM/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/polling.min.js
+[DEBUG] from JAR /Users/VM/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/thirdparty.jar => org/apache/Commons-NOTICE.txt
+[DEBUG] from JAR /Users/VM/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/thirdparty.jar => org/apache/HttpComponents-NOTICE.txt
+[DEBUG] from JAR /Users/VM/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/thirdparty.jar => org/apache/mime4j-NOTICE.txt
+[DEBUG] from JAR /Users/VM/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/build.properties
+[DEBUG] from JAR /Users/VM/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/background.png
+[DEBUG] from JAR /Users/VM/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on.png
+[DEBUG] from JAR /Users/VM/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_18.png
+[DEBUG] from JAR /Users/VM/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_48.png
+[DEBUG] from JAR /Users/VM/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_64.png
+[DEBUG] from JAR /Users/VM/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more.png
+[DEBUG] from JAR /Users/VM/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_18.png
+[DEBUG] from JAR /Users/VM/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_48.png
+[DEBUG] from JAR /Users/VM/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_64.png
+[DEBUG] from JAR /Users/VM/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_normal.9.png
+[DEBUG] from JAR /Users/VM/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_pressed.9.png
+[DEBUG] from JAR /Users/VM/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_selected.9.png
+[DEBUG] from JAR /Users/VM/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/default_icon.png
+[DEBUG] from JAR /Users/VM/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/photoDefault.png
+[DEBUG] installing native lib: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/modules/android/com.mirasense.scanditsdk/1.3.1/libs/armeabi/libcom.mirasense.scanditsdk.so
+[DEBUG] installing native lib: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/modules/android/com.mirasense.scanditsdk/1.3.1/libs/armeabi/libscanditsdk-android-3.5.2.so
+[DEBUG] installing native lib: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/modules/android/com.mirasense.scanditsdk/1.3.1/libs/armeabi-v7a/libcom.mirasense.scanditsdk.so
+[DEBUG] installing native lib: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/modules/android/com.mirasense.scanditsdk/1.3.1/libs/armeabi-v7a/libscanditsdk-android-3.5.2.so
+[DEBUG] installing native lib: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/modules/android/com.mirasense.scanditsdk/1.3.1/libs/x86/libcom.mirasense.scanditsdk.so
+[DEBUG] installing native lib: /Users/VM/Documents/Titanium_Studio_Workspace/SampleApp/modules/android/com.mirasense.scanditsdk/1.3.1/libs/x86/libscanditsdk-android-3.5.2.so
+[DEBUG] installing native SDK libs
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.023361 seconds on emulator to get ready
+[INFO] Installing application on device
+[ERROR] Failed installing me.jwebster.alloynavdemo: 	pkg: /data/local/tmp/app.apk
+Failure [INSTALL_FAILED_OLDER_SDK]
+

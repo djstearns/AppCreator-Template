@@ -1,0 +1,17 @@
+<Alloy>
+    <TabGroup id="tabGroup">
+    	<Require src="home" id="tabHome" />
+	    <Tab title="Widgets" icon="KS_nav_ui.png" id="recipestab">
+			<Require src="widgets" id="recipestable" />
+		</Tab>
+		<Tab title="Places" icon="KS_nav_ui.png" id="recipestab">
+			<Require src="places" id ="items">
+		</Tab>
+		<Tab title="Workers" icon="KS_nav_ui.png" id="recipestab1">	
+			<Require src="workers" id="yingredients"/>
+		</Tab>
+		<Tab>
+			<Require src="scanner" id="scanner">
+		</Tab>
+    </TabGroup>
+</Alloy>
